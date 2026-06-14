@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Avatar IA Social</title>
+    <link rel="stylesheet" href="../CSS/style.css">
+</head>
+<body>
+    <main class="container">
+        <section class="chat">
+            <h1>Avatar IA Social</h1>
+
+            <div id="messages" class="messages"></div>
+
+            <div class="input-zone">
+                <input id="userInput" type="text" placeholder="Écris un message...">
+                <button onclick="sendMessage()">Envoyer</button>
+            </div>
+        </section>
+
+        <section class="avatar-zone">
+            <div id="avatar" class="avatar">🙂</div>
+            <p id="expression">Expression : neutre</p>
+            <p id="gesture">Geste : attente</p>
+            <p id="tone">Ton : neutre</p>
+        </section>
+
+        <section class="analysis-zone">
+            <h2>Analyse IA</h2>
+            <pre id="analysis"></pre>
+        </section>
+    </main>
+
+    <script src="../JS/script.js"></script>
+</body>
+</html>
