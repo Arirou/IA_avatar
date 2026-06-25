@@ -87,7 +87,7 @@ Utilisateur
 
 ---
 
-# 🎭 Système d’avatar
+#  Système d’avatar
 
 ## Expressions
 - neutre
@@ -113,7 +113,7 @@ Utilisateur
 
 ---
 
-# 🧠 Fusion NLP + LLM
+#  Fusion NLP + LLM
 
 ## Stratégie
 - accord → émotion conservée
@@ -125,7 +125,7 @@ Un état émotionnel plus stable et cohérent.
 
 ---
 
-# 💾 Mémoire
+#  Mémoire
 
 ## Stockage
 - messages utilisateur
@@ -160,7 +160,7 @@ Ouvrir frontend/index.html dans un navigateur
 
 ---
 
-# 📁 Structure du projet
+#  Structure du projet
 
 project/
 │
